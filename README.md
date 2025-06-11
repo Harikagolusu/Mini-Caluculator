@@ -1,2 +1,2 @@
 # Mini-Caluculator
-MIni Caluculator Using Java
+Mini Caluculator which performs simple arithmetic operations
